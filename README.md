@@ -19,19 +19,10 @@ Esta atividade é requisito da Avaliação Final
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
-```
-Processador (AMD®, ARM® ou Intel®) de 64 bits.
-Por consequência, um sistema operacional de 64 bits;
-Espaço em disco suficiente para baixar e instalar os componentes da IDE(Não é muito pesado).
-
-
-1. Faça o Download do Eclipse Installer.
-2. Inicie o Eclipse Installer.
-3. Selecione o pacote (Linguagem de Programação) para baixar.
-4. Selecione um Local para guardar Downloads.
-5. E Pronto!
-
-```
+*Java JDK.
+*IDE Eclipse ou qualquer outra IDE.
+*MySQL para ter um banco de dados.
+*Driver JDBC Para conexão com o banco de dados.
 
 ### 🔧 Instalação
 
