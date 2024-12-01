@@ -25,7 +25,7 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 
 *MySQL para ter um banco de dados.
 
-*Driver JDBC Para conexão com o banco de dados.
+*Driver JDBC para conexão com o banco de dados.
 
 ### 🔧 Instalação
 
