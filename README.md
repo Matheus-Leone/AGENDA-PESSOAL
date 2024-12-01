@@ -37,8 +37,6 @@ Espaço em disco suficiente para baixar e instalar os componentes da IDE(Não é
 
 Após abrir o pacote com o Arquivo para o programa executar, entre no Arquivo AgendaContatos e execute-o, a partir disso, utilize os números de 1 a 5 para selecionar a opção desejada e siga utilizando os métodos do projeto para se ter uma lista de contatos cadastradas no seu programa
 
-(![BibliotecadeConversões](GerenciamentoFrutas2.png))
-
 
 ## 🛠️ Construído com
 
