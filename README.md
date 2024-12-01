@@ -20,8 +20,11 @@ Esta atividade é requisito da Avaliação Final
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 *Java JDK.
+
 *IDE Eclipse ou qualquer outra IDE.
+
 *MySQL para ter um banco de dados.
+
 *Driver JDBC Para conexão com o banco de dados.
 
 ### 🔧 Instalação
